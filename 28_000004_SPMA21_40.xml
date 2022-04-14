@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Order> 
+      <date_of_receipt value="2009-02-03 12:45:29" /> 
+      <order_id  value="200902030002" /> 
+      <order_id_my  value="4" /> 
+      <file_name  value="28_000004_SPMA21_40" /> 
+      <type_of_delivery value="РљСѓСЂ'С”СЂ" /> 
+      <type_of_payment value="" /> 
+      <name value="Pagava Anna" /> 
+      <tel value="8 (093) 635 68 60" /> 
+      <spm_price value="339.00" /> 
+      <spm_t_price value="С‚СЂРёСЃС‚Р° С‚СЂРёРґС†СЏС‚СЊ РґРµРІ'СЏС‚СЊ РіСЂРёРІРµРЅСЊ 00 РєРѕРїС–Р№РѕРє" /> 
+      <spm_value value="339" /> 
+      <spm_t_value value="" /> 
+      <address_of_delivery_city value="РљРёС—РІ" /> 
+      <address_of_delivery_region value="РљРёС—РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ" /> 
+      <address_of_delivery_index value="02091" /> 
+      <address_of_delivery_street value="С…Р°СЂСЊРєРѕРІСЃРєРѕРµ С€РѕСЃСЃРµ" /> 
+      <address_of_delivery_house value="56" /> 
+      <address_of_delivery_domophone value="" /> 
+      <job_type value="SPM" /> 
+      <job_phb_format value="A21" /> 
+      <job_phb_pages value="40" /> 
+      <job_phb_binding value="Мягкий переплет" /> 
+      <job_phb_cover_color value="0" /> 
+      <job_phb_cut value="no" /> 
+      <job_copy value="1" /> 
+</Order> 

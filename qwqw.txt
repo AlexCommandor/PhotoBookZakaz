@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Order>
+    <date_of_receipt value="04-12-2008 00:12" />
+    <order_id value="468" />
+    <file_name value="26_000468_PHBA4P_38" />
+    <date_of_delivery value="07-12-2008 00:12" />
+    <type_of_payment value="Наличными" />
+    <type_of_delivery value="Из офиса" />
+    <name value="Гадя Петрович Хреново" />
+    <name_id value="341" />
+    <tel value="80972114668" />
+    <cost_of_order value="270" />
+    <form_of_payment value="2" />
+    <address_of_delivery value="Мухосранск" />
+    <job_type value="PHB" />
+    <job_phb_format value="A4P" />
+    <job_phb_pages value="38" />
+    <job_phb_binding value="MetalBind" />
+    <job_phb_cover_color value="бордовый" />
+    <job_phb_cut value="есть" />
+    <job_copy value="1" />
+    <job_subject value="Путешествия" />
+    <job_comment value="ТИША" />
+</Order>

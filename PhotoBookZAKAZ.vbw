@@ -1,0 +1,5 @@
+frmMain = 110, 110, 1193, 639, Z, 88, 88, 1171, 617, C
+FrmSysTray = 0, 0, 929, 728, C, 110, 110, 754, 723, C
+modBrowse = 110, 110, 754, 723, 
+modSHFileOperation = 154, 154, 798, 767, 
+modStdDialog = 264, 264, 987, 849, 

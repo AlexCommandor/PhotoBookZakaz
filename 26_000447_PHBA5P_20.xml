@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    	<Order>
+    <date_of_receipt value="30-11-2008  00:11" />
+    <order_id  value="447" />
+    <file_name  value="26_000447_PHBA5P_20" />
+    <date_of_delivery value="03-12-2008  00:12" />
+    <type_of_payment value="Безнал" />
+    <type_of_delivery value="Почтой" /> 
+    <name value="Татьяна Федоровна Филатова" />      
+    <name_id value="270" />
+    <tel value="80503971286" />
+    <cost_of_order value="70" />
+    <form_of_payment value="1" />
+    <address_of_delivery value="95013 Крымская Симферополь Трубаченко 5 4 " />
+    <job_type value="PHB" /> 
+    <job_phb_format value="A5P" />
+    <job_phb_pages value="20" />
+    <job_phb_binding value="Скоба" />
+	<job_phb_cover_color value="" />	
+    <job_phb_cut value="нет" />
+    <job_copy value="1" />
+    <job_subject value= "Природа" />
+    <job_comment value="123" />
+    </Order>

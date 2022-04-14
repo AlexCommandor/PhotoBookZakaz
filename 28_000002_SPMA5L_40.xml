@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Order> 
+      <date_of_receipt value="2009-01-29 22:39:56" /> 
+      <order_id  value="200901290004" /> 
+      <order_id_my  value="2" /> 
+      <file_name  value="28_000002_SPMA5L_40" /> 
+      <type_of_delivery value="РЈРєСЂРїРѕС€С‚Р°" /> 
+      <type_of_payment value="" /> 
+      <name value="Р�РіРЅР°С‚СЊРµРІР° РђРЅР°СЃС‚Р°СЃРёСЏ" /> 
+      <tel value="8 (067) 923 21 65" /> 
+      <spm_price value="249.00" /> 
+      <spm_t_price value="249.00" /> 
+      <spm_value value="249" /> 
+      <spm_t_value value="" /> 
+      <address_of_delivery_city value="РћРґРµСЃР°" /> 
+      <address_of_delivery_region value="РћРґРµСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ" /> 
+      <address_of_delivery_index value="65031" /> 
+      <address_of_delivery_street value="РЇРґРѕРІР°" /> 
+      <address_of_delivery_house value="24Рђ" /> 
+      <address_of_delivery_domophone value="" /> 
+      <job_type value="SPM" /> 
+      <job_phb_format value="A5L" /> 
+      <job_phb_pages value="40" /> 
+      <job_phb_binding value="Твердый переплет" /> 
+      <job_phb_cover_color value="0" /> 
+      <job_phb_cut value="no" /> 
+      <job_copy value="1" /> 
+</Order> 

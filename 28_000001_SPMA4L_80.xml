@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Order> 
+      <date_of_receipt value="2009-01-27 21:06:00" /> 
+      <order_id  value="200901270006" /> 
+      <file_name  value="28_000001_SPMA4L_80" /> 
+      <type_of_delivery value="РљСѓСЂ'С”СЂ" /> 
+      <type_of_payment value="" /> 
+      <name value="РљСѓС†Р°РЅ РќРёРєРѕР»Р°Р№" /> 
+      <tel value="8 (063) 244 99 57" /> 
+      <spm_price value="594.00" /> 
+      <spm_t_price value="594.00" /> 
+      <spm_value value="594" /> 
+      <spm_t_value value="" /> 
+      <address_of_delivery_city value="РљРёС—РІ" /> 
+      <address_of_delivery_region value="РљРёС—РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ" /> 
+      <address_of_delivery_index value="04205" /> 
+      <address_of_delivery_street value="Р‘РѕРіР°С‚С‹СЂСЃРєР°СЏ" /> 
+      <address_of_delivery_house value="2" /> 
+      <job_type value="SPM" /> 
+      <job_phb_format value="A4L" /> 
+      <job_phb_pages value="80" /> 
+      <job_phb_label value="Est'" /> 
+      <order_priority value="Srochny'" /> 
+      <job_phb_binding value="Твердый переплет" /> 
+      <job_phb_cover_color value="0" /> 
+      <job_phb_cut value="no" /> 
+      <job_copy value="1" /> 
+</Order> 

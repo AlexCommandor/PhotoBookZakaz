@@ -1,0 +1,22 @@
+   	<Order> 
+      <date_of_receipt value="2009-02-26 01:44:11" /> 
+      <order_id  value="31" /> 
+      <folder_id  value="PhotoBook__1633771807224778" /> 
+      <file_name  value="26_3000031_ALBA5L_40" /> 
+      <type_of_delivery value="Заберу сам" /> 
+      <type_of_payment value="Наличными при получении (только для Киевлян)" /> 
+      <name value="Кирильчук Виталий" /> 
+      <tel value="(044) 360-29-45" /> 
+      <address_of_delivery_city value="" /> 
+      <address_of_delivery_region value="" /> 
+      <address_of_delivery_index value="" /> 
+      <address_of_delivery_street value="" /> 
+      <address_of_delivery_house value="" /> 
+      <job_type value="ALB" /> 
+      <job_phb_format value="A5L" /> 
+      <job_phb_pages value="40" /> 
+      <job_phb_binding value="Твердый переплет" /> 
+      <job_phb_cover_color value="" /> 
+      <job_phb_cut value="" /> 
+      <job_copy value="1" /> 
+    </Order> 
